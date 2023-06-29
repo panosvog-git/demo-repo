@@ -1,2 +1,2 @@
 # demo-repo
-Demo repository for testing.
+Demo repository for testing!
